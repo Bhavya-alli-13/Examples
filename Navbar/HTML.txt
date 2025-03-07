@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="demo.css">
+    </head>
+    <body>
+        <h1 class="head">
+            Parul University
+        </h1>
+        <p class="para">
+            Be Here... Be Vibrant...
+        </p>
+        <div class="text">
+            <button class="button">Login</button>
+            <button class="button">Sign In</button>
+        </div>
+        <div class="back">
+            <ul>
+                <h2>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#About">About</a></li>
+                <li><a href="#Courses">Courses</a></li>
+                <li><a href="#Aluminis">Aluminis</a></li>
+                </h2>
+            </ul>
+        </div>
+    </body>
+</html>
